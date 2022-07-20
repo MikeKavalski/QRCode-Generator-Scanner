@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRcodeGeneratorScanner</string>
+    <string name="generate">GENERATE QR CODE</string>
+    <string name="todo">TODO</string>
+</resources>
